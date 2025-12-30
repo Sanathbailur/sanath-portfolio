@@ -139,8 +139,8 @@ const Hero = () => {
 
             <div className="flex flex-wrap gap-4 pt-4">
           <a
-  href="/SANATH_RESUME.pdf"
-  download="SANATH_RESUME.pdf"
+  href="/sanathp_resume.pdf"
+  download="sanathp_resume.pdf"
 >
   <Button
     size="lg"
