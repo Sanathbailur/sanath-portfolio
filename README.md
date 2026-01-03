@@ -5,7 +5,7 @@ This is my personal developer portfolio website showcasing my projects, technica
 The website also includes an **AI-powered chatbot assistant** that helps visitors interact with the portfolio and understand projects more effectively.
 
 ## 🚀 Live Demo
-https://sanathb-portfolio.netlify.app
+https://sanathp-portfolio.netlify.app
 
 ## 🛠 Tech Stack
 - React
@@ -14,15 +14,6 @@ https://sanathb-portfolio.netlify.app
 - Vite
 - HTML5
 - CSS3
-
-## 🤖 AI Bot / Assistant
-The portfolio features a built-in AI chatbot that provides interactive assistance to users. The bot can answer questions related to projects, skills, and general portfolio content, improving user engagement and accessibility.
-
-**Bot Highlights:**
-- Interactive chat-based interface
-- Context-aware responses
-- Clean UI integration within portfolio
-- Improves user experience and engagement
 
 ## ✨ Features
 - Clean and modern UI design
